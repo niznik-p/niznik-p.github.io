@@ -102,3 +102,32 @@ h2 {
 .more-soon {
   font-size: 125%;
 }
+
+#content-cv h1 {
+  margin-bottom: -4px;
+}
+
+#content-cv h2 {
+  color: white;
+}
+
+.cv-email {
+  margin: 0;
+}
+
+.font-note {
+  color: var(--lightestPrOrange);
+  font-size: 75%;
+}
+
+#content-cv p {
+  color: var(--lightestPrOrange);
+}
+
+.cv-title {
+  color: var(--lightPrOrange);
+}
+
+.cv-desc {
+  color: white;
+}
